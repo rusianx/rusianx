@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%"/>
+<img src="9268983.png" width="100%"/>
 
 <h1>Hi, I'm Suraj Rout 👋</h1>
 
