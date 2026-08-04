@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Hi%20There!%20I'm%20SURAJ%20ROUTfontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="banner.png" width="100%"/>
+
+<h1>Hi, I'm Suraj Rout 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=YOUR_TITLE+%2F+ROLE;Building+cool+things+with+code;Always+learning+something+new" alt="Typing SVG" />
 
