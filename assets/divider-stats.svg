@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#c1121f" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c1121f"/>
+      <stop offset="1" stop-color="#c1121f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="70" rx="10" fill="#0a0a0a"/>
+  <path d="M40 47 L860 23" stroke="url(#fade)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 900;900 0" dur="1.6s" fill="freeze"/>
+  </path>
+  <text x="450" y="30" text-anchor="middle" font-family="'Yu Mincho','Hiragino Mincho ProN','Noto Serif JP',serif" font-size="15" fill="#c1121f" letter-spacing="6">修行</text>
+  <text x="450" y="54" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#f5f5f5" letter-spacing="5">TRAINING LOG</text>
+</svg>
