@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/ronin.svg" width="170" alt="Pixel art character" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=C1121F&center=true&vCenter=true&width=560&height=30&lines=A+passionate+developer+from+India;Turning+raw+data+into+smart+decisions;Automating+pipelines+from+commit+to+deploy;Bridging+code+and+hardware+with+Arduino;Always+leveling+up%2C+never+done+learning" alt="Typing intro" />
 </p>
 
