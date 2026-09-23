@@ -6,9 +6,7 @@
   <img src="assets/ronin.svg" width="170" alt="Pixel art character" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=C1121F&center=true&vCenter=true&width=560&height=30&lines=A+passionate+developer+from+India;Turning+raw+data+into+smart+decisions;Automating+pipelines+from+commit+to+deploy;Bridging+code+and+hardware+with+Arduino;Always+leveling+up%2C+never+done+learning" alt="Typing intro" />
-</p>
+<p align="center"><b>A passionate developer from India</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surajrout1"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=c1121f" alt="LinkedIn" /></a>
@@ -33,16 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rusianx&theme=github_dark" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rusianx&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive time" />
-  <img src="https://streak-stats.demolab.com/?user=rusianx&background=0D1117&border=C1121F&ring=C1121F&fire=C1121F&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=C1121F&sideLabels=C1121F&dates=9E9E9E&border_radius=6" width="60%" alt="Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rusianx/rusianx/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/rusianx/rusianx/output/snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rusianx&theme=github_dark" height="170" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rusianx&background=0D1117&border=C1121F&ring=C1121F&fire=C1121F&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=C1121F&sideLabels=C1121F&dates=9E9E9E&border_radius=6" height="170" alt="Streak" />
 </p>
 
 <details>
